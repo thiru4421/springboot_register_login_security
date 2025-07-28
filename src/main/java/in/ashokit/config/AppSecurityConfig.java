@@ -15,6 +15,9 @@ import org.springframework.security.web.SecurityFilterChain;
 
 import in.ashokit.service.CustomerService;
 
+// this is config class
+
+
 @Configuration
 @EnableWebSecurity
 public class AppSecurityConfig {

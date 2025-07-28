@@ -11,6 +11,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+// this is rest class
+
 import in.ashokit.entity.Customer;
 import in.ashokit.repo.CustomerRepository;
 
