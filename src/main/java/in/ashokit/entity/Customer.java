@@ -6,6 +6,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 // This is customer class
+// this is a entity class
 @Entity
 public class Customer {
 
