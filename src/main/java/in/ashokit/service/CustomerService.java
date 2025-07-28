@@ -12,6 +12,9 @@ import org.springframework.stereotype.Service;
 import in.ashokit.entity.Customer;
 import in.ashokit.repo.CustomerRepository;
 
+// this is serbvice class 
+
+
 @Service
 public class CustomerService implements UserDetailsService {
 
